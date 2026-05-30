@@ -2,16 +2,27 @@ Firas Hamed, International Students Joensuu
 
 To run the app:
 -open cmd, navigate to its folder (cd Desktop and so on)
+
 -run npm create vite@latest exam -- --template react
+
 -No for rolldown-vite usage
+
 -Yes for installing and run with npm
+
 -Then click ctrl+c to return to cmd
+
 -cd exam
+
 =replace the src folder in exam with the one from the ZIP file 
+
 -install bootstrap by running:npm install bootstrap 
+
 -then write in src/index.js:
+
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 -npm run dev  //then go to browser link 
+
 Should work 
 
 
