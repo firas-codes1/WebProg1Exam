@@ -1,4 +1,4 @@
-Firas Hamed, International Students Joensuu
+F. H, International Students Joensuu
 
 To run the app:
 -open cmd, navigate to its folder (cd Desktop and so on)
